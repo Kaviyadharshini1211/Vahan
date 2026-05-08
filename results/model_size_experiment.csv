@@ -1,0 +1,4 @@
+model_size,avg_wer,avg_latency,entity_hit,entity_fuzzy
+small,2.133,0.392,0.2,0.6
+medium,2.133,0.314,0.0,0.6
+large-v3,2.0,0.29,0.2,0.8
